@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Ocdworld" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@null</item> <!-- allow layout to show -->
+    </style>
+
+
+</resources>
